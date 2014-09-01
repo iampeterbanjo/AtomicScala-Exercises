@@ -128,3 +128,13 @@
 0
 0[Error] expected:
 56
+Unknown[Error] expected:
+Sunny
+Unknown[Error] expected:
+Mostly Sunny
+Unknown[Error] expected:
+Partly Sunny
+Unknown[Error] expected:
+Mostly Cloudy
+Unknown[Error] expected:
+Cloudy

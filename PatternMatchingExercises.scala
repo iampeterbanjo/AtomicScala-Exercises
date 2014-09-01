@@ -1,3 +1,5 @@
+// Exercise 4
+
 import com.atomicscala.AtomicTest._
 
 def forecast(temp:Int): String = {

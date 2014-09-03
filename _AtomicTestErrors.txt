@@ -138,3 +138,35 @@ Unknown[Error] expected:
 Mostly Cloudy
 Unknown[Error] expected:
 Cloudy
+7[Error] expected:
+5
+1[Error] expected:
+0
+-15[Error] expected:
+45
+-1[Error] expected:
+0
+30[Error] expected:
+0
+-1[Error] expected:
+0
+30[Error] expected:
+0
+0[Error] expected:
+30
+45[Error] expected:
+15
+0[Error] expected:
+30
+45[Error] expected:
+15
+0[Error] expected:
+30
+45[Error] expected:
+15
+0[Error] expected:
+30
+45[Error] expected:
+15
+45[Error] expected:
+15
